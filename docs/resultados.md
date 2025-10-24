@@ -13,18 +13,14 @@
 | Test     |    0.91  |     0.90  |  0.89  |0.90|
 
 !!! note "CSV descargable"
-    - [Tabla completa (CSV)](assets/tabla_resultados.csv)
 
 ## 2. Visualizaciones
 ### 2.1. Curvas de entrenamiento
-![Pérdida y accuracy](assets/fig_loss_acc.png)
 
 ### 2.2. Matriz de confusión
-![Matriz de confusión](assets/fig_confusion.png)
 
 ### 2.3. Ejemplos cualitativos
 Grid de aciertos y errores relevantes:  
-![Muestras](assets/fig_ejemplo.png)
 
 ## 3. Comparativas / Ablaciones
 - **Baseline** vs **Modelo con augmentations**.
