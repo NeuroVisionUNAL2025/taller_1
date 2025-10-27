@@ -19,6 +19,5 @@ Bienvenido al informe del **Taller 1**. Este sitio resume objetivos, método y h
 ## Estructura del documento
 - [Teoría](teoria.md)
 - [Metodología](metodologia.md)
-- [Resultados](resultados.md)
-- [Análisis](analisis.md)
+- [Resultados & Análisis](resultados_analisis.md)
 - [Bibliografía](bibliografia.md)
