@@ -1,22 +1,10 @@
 # Taller de Visión por Computador — Informe
 
-Bienvenido al informe del **Taller 1**. Este sitio resume objetivos, método y hallazgos clave.
+Este trabajo es una práctica experimental en visión por computador y procesamiento digital de imágenes. El objetivo general es aplicar, con datos reales, las operaciones fundamentales que permiten a un sistema de visión interpretar una escena: capturar una imagen, corregirla, transformarla y extraer información cuantitativa.
 
-!!! info "Resumen ejecutivo"
-    - **Problema:** ¿Qué queremos detectar/medir?
-    - **Datos:** Fuente, tamaño, clases, resolución.
-    - **Resultado clave:** Métricas principales (precisión, IoU, etc.)
-    - **Repositorio:** [enlace a GitHub](https://github.com/usuario/repo)
+Todas las imágenes usadas fueron tomadas directamente por el equipo con una cámara de teléfono celular, en distintas condiciones de iluminación y contexto. El procesamiento se desarrolló en Python utilizando librerías de código abierto (OpenCV, NumPy y Matplotlib), y se documentó paso a paso.
 
-## Objetivos
-1. Objetivo 1 …
-2. Objetivo 2 …
-
-## Alcance
-- Qué **sí** cubre: …
-- Qué **no** cubre: …
-
-## Estructura del documento
+## Estructura del informe
 - [Teoría](teoria.md)
 - [Metodología](metodologia.md)
 - [Resultados & Análisis](resultados_analisis.md)
