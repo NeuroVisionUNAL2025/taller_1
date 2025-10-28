@@ -58,6 +58,8 @@ Se definió una rutina que carga una imagen base y aplica, en secuencia, varias 
 
 Con esta lista de fotogramas se generó una animación tipo GIF usando matplotlib.animation.FuncAnimation. El resultado (ver Figura 5) muestra la imagen “moviéndose”, rotando y cambiando de tamaño cuadro a cuadro, lo que demuestra que las transformaciones sucesivas se aplicaron en el orden correcto y producen un movimiento continuo.
 
+![GIF de transformaciones geométricas](assets/punto3.gif)
+
 ## 4. Limitaciones observadas
 Se analizaron las dos imágenes de fachada (día y noche) en términos de su distribución de intensidades. Cada imagen se transformó a espacio YUV y se aplicó ecualización de histograma únicamente sobre el canal Y (luminancia), usando cv2.equalizeHist. Luego se reconstruyó la imagen en RGB.
 
@@ -70,6 +72,9 @@ En las Figuras 6 y 7 se presentan, para cada caso (día y noche):
 3. Histograma original de intensidades.
 
 4. Histograma ecualizado.
+
+![Histograma ecualizado de día](assets/punto4_1.png)
+![Histograma ecualizado de noche](assets/punto4_2.png)
 
 Resultados principales:
 
@@ -88,10 +93,10 @@ Posteriormente se extrajeron contornos con cv2.findContours, se dibujaron sobre 
 
 * El área aproximada de cada objeto, en píxeles, usando cv2.contourArea.
 
-En la Figura 7 se muestra, para un color específico (por ejemplo, azul):
+En la Figura 8 se muestra, para un color específico (verde):
 
 * Imagen original.
 
 * Máscara binaria limpia.
 
-* Contornos sobrepuestos y etiquetados.
+![Máscara binaria limpia verde](assets/punto5.png)
