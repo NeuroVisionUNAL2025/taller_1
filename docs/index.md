@@ -7,8 +7,8 @@ Todas las imágenes usadas fueron tomadas directamente por el equipo con una cá
 ## Estructura del informe
 - [Fundamentos teóricos](#fundamentos-teoricos)
 - [Metodología](#metodología)
-- [Resultados & Análisis](resultados_analisis.md)
-- [Bibliografía](bibliografia.md)
+- [Resultados & Análisis](#resultados--análisis)
+- [Bibliografía](#referencias)
 
 ## Fundamentos teóricos
 
@@ -163,7 +163,7 @@ En la Figura 8 se muestra, para un color específico (verde):
 
 ![Máscara binaria limpia verde](assets/punto5.png)
 
-## Referencias
+## Referencias bibliográficas
 
 * Automatic Addison. (2020, diciembre 5). How to Perform Camera Calibration Using OpenCV. https://automaticaddison.com/how-to-perform-camera-calibration-using-opencv/
 * Galeone, P. (2018, marzo 4). Camera Calibration Guidelines. https://pgaleone.eu/computer-vision/2018/03/04/camera-calibration-guidelines/
