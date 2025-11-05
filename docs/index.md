@@ -172,3 +172,19 @@ En la Figura 8 se muestra, para un color específico (verde):
 * Passolas Fotografías. (2020, enero 11). Distorsiones de lente, qué son y cómo solucionarlas – Adobe Lightroom [Video]. YouTube. https://www.youtube.com/watch?v=vVW2EeL-uQQ
 * Sadekar, K. (2020, febrero 25). Camera Calibration using OpenCV. LearnOpenCV. https://learnopencv.com/camera-calibration-using-opencv/
 * Stanford University. (2025). Camera Models – CS231A: Computer Vision, From 3D Reconstruction to Recognition. https://web.stanford.edu/class/cs231a/course_notes/01-camera-models.pdf
+
+## Reporte de contribución individual
+
+* Punto 1: Yuricik Cañas Quintero y Jorge Alexander Orrego Puerta
+
+* Punto 2: Yuricik Cañas Quitero
+
+* Punto 3: Thomas Agudelo Londoño
+
+* Punto 4: Juan Jose Munoz Restrepo
+
+* Punto 5: Jorge Alexander Orrego Puerta y Juan Jose Munoz Restrepo
+
+* Revisión: Yuricik Cañas Quintero y Juan Jose Munoz Restrepo
+
+* Estructuración del blog y del repositorio: Thomas Agudelo Londoño
